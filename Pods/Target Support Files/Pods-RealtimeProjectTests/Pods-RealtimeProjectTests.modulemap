@@ -1,0 +1,6 @@
+framework module Pods_RealtimeProjectTests {
+  umbrella header "Pods-RealtimeProjectTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
